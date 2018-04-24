@@ -10,3 +10,4 @@ Un _virus_ es un __software__ que tiene por objetivo de alterar el funcionamient
 ## [Virus de acción directa](https://alfonsodeltoro.github.io/Tipos-de-virus/acciondirecta)
 ## [virus de sobreescritura](https://alfonsodeltoro.github.io/Tipos-de-virus/sobreescritura)
 ## [virus de arranque](https://alfonsodeltoro.github.io/Tipos-de-virus/arranque)
+## [Macro virus](https://alfonsodeltoro.github.io/Tipos-de-virus/macro)
