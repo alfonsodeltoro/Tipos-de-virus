@@ -7,4 +7,4 @@
  
  Estos tipos de virus informáticos se encriptan o codifican de una manera diferente, utilizando diferentes algoritmos y claves de cifrado cada vez que infectan un sistema. Esto hace imposible que el software antivirus los encuentre utilizando búsquedas de cadena o firma porque son diferentes cada vez.
  
-## [Menu principal](https://alfonsodeltoro.github.io/Tipos-de-virus/)https://alfonsodeltoro.github.io/Tipos-de-virus/
+## [Menu principal](https://alfonsodeltoro.github.io/Tipos-de-virus/)
