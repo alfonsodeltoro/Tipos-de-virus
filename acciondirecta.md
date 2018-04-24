@@ -9,4 +9,4 @@ El objetivo principal de estos tipos de virus informáticos es replicarse y actu
 
 El virus infecta uno tras otro todos los archivos que encuentra y que previamente ha seleccionado como sus víctimas. También es capaz de infectar dispositivos externos. Cada vez que se ejecuta el código, estos tipos de virus informáticos cambian su ubicación para infectar nuevos archivos, pero generalmente se encuentra en el directorio raíz del disco duro.
 
-[Menu principal](https://alfonsodeltoro.github.io/Tipos-de-virus/)
+## [Menu principal](https://alfonsodeltoro.github.io/Tipos-de-virus/)
