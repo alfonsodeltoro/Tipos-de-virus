@@ -14,9 +14,14 @@ Un _virus_ es un __software__ que tiene por objetivo de alterar el funcionamient
 ## [Virus polimorfico](https://alfonsodeltoro.github.io/Tipos-de-virus/poolimorfico)
 
 
-Hecho por
+### Hecho por
+
 Del toro alfonso
+
 Soto Luna marcos
+
 Ayala Fabian
+
 Perez Ariel
+
 Cardenas Sergio
